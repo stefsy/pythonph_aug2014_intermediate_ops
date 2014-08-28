@@ -1,6 +1,6 @@
 # Intermediate Python Operations
 
-Make sure you have (iPython notebooks)[http://ipython.org/notebook.html] installed. 
+Make sure you have [iPython notebooks](http://ipython.org/notebook.html) installed. 
 
 Download this repo, cd into the directory then run the ff. from terminal:
 
